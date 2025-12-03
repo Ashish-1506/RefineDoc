@@ -1,4 +1,4 @@
-# Document Intelligence Pipeline
+# RefineDoc 
 
 This project is a comprehensive pipeline for extracting, cleansing, and analyzing content from various document types, including presentations, spreadsheets, PDFs, and images. It features a user-friendly web interface built with Streamlit for easy interaction and a series of Jupyter notebooks for detailed, step-by-step demonstrations of the underlying processes.
 
