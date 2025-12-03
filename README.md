@@ -53,7 +53,7 @@ This project is a comprehensive pipeline for extracting, cleansing, and analyzin
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Ashish-1506/RefineDoc.git
     cd <repository-folder>
     ```
 
